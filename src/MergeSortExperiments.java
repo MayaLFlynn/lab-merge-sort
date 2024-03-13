@@ -45,7 +45,7 @@ public class MergeSortExperiments {
    * Sort a small array of integers.
    */
   static void experiment01(PrintWriter pen) {
-    integerSortExperiment(pen, new Integer[] { 3, 5, 1, 2, 4, 3 });
+    integerSortExperiment(pen, new Integer[] { 3, 7, 1, 4, 5 }); // {3, 5, 1, 2, 4, 3}
   } // experiment01(PrintWriter)
 
   /**
